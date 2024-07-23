@@ -21,19 +21,23 @@ This project involves analyzing data from a bicycle company with three stores ac
 
 Consistent sales increase from April to October in 2016 and 2017.
 A significant sales surge in March 2018.
+
 Product Performance:
 
 Mountain Bikes: Top category with $3,030,776 in sales.
 Road Bikes: $1,852,556.
 Cruisers: $1,109,151.
+
 Brand Performance:
 
 Trek: Leading brand with $5,129,381 in revenue (59.79% of total sales).
+
 Store Performance:
 
 NY Baldwin Bikes: Best-performing store with $5,826,242 in sales (67.91% of total).
 Santa Cruz Bikes: 20.87% of total sales.
 Rowlett Bikes: 11.22% of total sales.
+
 Sales Representatives:
 
 Marcelene Boyer: Top performer with $2,938,888 in sales.
